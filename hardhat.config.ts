@@ -100,10 +100,10 @@ const config: HardhatUserConfig = {
       accounts: []
     } */
 
-    ropsten: {
+    /* ropsten: {
       url: `https://eth-ropsten.alchemyapi.io/v2/${process.env.ALCHEMY_API_KEY}` || ""  ,
       accounts: [privateKey],
-    },
+    }, */
   },
 };
 
