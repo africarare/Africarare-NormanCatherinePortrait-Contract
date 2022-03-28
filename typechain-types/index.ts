@@ -10,7 +10,6 @@ export type { IERC721Receiver } from "./IERC721Receiver";
 export type { ERC165 } from "./ERC165";
 export type { IERC165 } from "./IERC165";
 export type { NormanCatherineDrop } from "./NormanCatherineDrop";
-export type { AFRICARARE } from "./AFRICARARE";
 
 export { Ownable__factory } from "./factories/Ownable__factory";
 export { Pausable__factory } from "./factories/Pausable__factory";
@@ -21,4 +20,3 @@ export { IERC721Receiver__factory } from "./factories/IERC721Receiver__factory";
 export { ERC165__factory } from "./factories/ERC165__factory";
 export { IERC165__factory } from "./factories/IERC165__factory";
 export { NormanCatherineDrop__factory } from "./factories/NormanCatherineDrop__factory";
-export { AFRICARARE__factory } from "./factories/AFRICARARE__factory";
