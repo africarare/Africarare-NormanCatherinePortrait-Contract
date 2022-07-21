@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.5.0",
-    "@openzeppelin/contracts-upgradeable": "^4.5.2",
+    "@openzeppelin/contracts-upgradeable": "^4.7.1",
     "acorn": "^8.7.0",
     "acorn-jsx": "^5.3.2",
     "ajv": "^6.12.6",
